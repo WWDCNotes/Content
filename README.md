@@ -1,0 +1,32 @@
+<p align="center">
+    <img src="logo.jpg" width="600" max-width="90%" alt="WWDC Notes" />
+</p>
+
+Welcome to **[WWDC Notes][website]**'s repository, _the TL;DW for Apple's WWDC videos_.
+
+# Introduction
+
+WWDC is fantastic for many reasons: Apple annouces tons of new things, previews major OS releases, new frameworks are revealed, current frameworks are revamped, and much more.
+
+The amount of new WWDC content every year is incredible, and, sometimes, watching these videos is really the only way to understand how things work, or how to make them work.
+
+[WWDC Notes][website] can be used as a quick reminder of what was presented, as a reference, or even as a time-saver, since watching all WWDC sessions takes hundreds of hours.
+
+In this repository you can find all the WWDC sessions notes available in the [main website][website], all notes are written in [Markdown][markdownSpec].
+
+# Contributing
+
+Everyone is very welcome to add any missing session (from any year!) and/or enhance any of the current ones. It doesn't matter how little, _every_ contribution is welcome ❤️
+
+For more information, please refer to the [CONTRIBUTING.md][contributing] document.
+
+# Credits
+
+[WWDC Notes][website] was built by [Federico Zanetello][twitter] as a [Five Stars][5SWebsite] project, and it is generated using [Publish][publish].
+
+[5SWebsite]: http://fivestars.blog
+[contributing]: CONTRIBUTING.md
+[markdownSpec]: https://daringfireball.net/projects/markdown/
+[publish]: https://github.com/JohnSundell/Publish
+[twitter]: https://twitter.com/zntfdr
+[website]: https://www.wwdcnotes.com
