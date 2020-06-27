@@ -4,7 +4,7 @@ title: Jinha Park
 
 iOS Developer 📱 Swift lover 💘
 
-[Medium] : [medium]
+Medium : [medium][medium]
 
 [medium]: https://medium.com/@jjuou2
 
