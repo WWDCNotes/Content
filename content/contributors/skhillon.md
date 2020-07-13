@@ -2,6 +2,8 @@
 title: Sarthak Khillon
 ---
 
-[Sarthak Khillon][skhillon_linkedin] is a Software Engineer who loves using Swift to build great user experiences.
+User-focused Software Engineer with a love for mobile platforms.
 
-[skhillon_linkedin]: https://www.linkedin.com/in/sarthakkhillon/
+- LinkedIn: [sarthakkhillon](https://www.linkedin.com/in/sarthakkhillon/)
+- Twitter: [@SarthakKhillon](https://twitter.com/SarthakKhillon)
+- Website: [skhillon.me](http://skhillon.me/)
