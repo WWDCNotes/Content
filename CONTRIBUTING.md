@@ -57,17 +57,17 @@ Two steps:
 
 > the `../../../` prefix is used to make it possible to preview the images in the note on GitHub.
 
-## Add Yourself as a Contributor
+## Add yourself as a contributor
 
 At the bottom of each note there is a list of all its contributors, with a picture and short bio.
 
 ### Picture
 
-Place your picture in the `/images/contributors` folder, the image should be a square of any format, the image name must be the same as your contributor handle (used in the notes).
+Place your picture in the `/images/community` folder, the image should be a square of any format, the image name must be the same as your contributor handle (used in the notes).
 
 ### Bio
 
-Place your bio (another markdown file) in the `/content/contributors` folder: write something about yourself, you can add links to your Twitter/Github/apps/company/website/etc.
+Place your bio (another markdown file) in the `/content/community` folder: write something about yourself, you can add links to your Twitter/Github/apps/company/website/etc.
 
 If you'd like your real name to be shown, please set it as the `title` metadata of the file.
 
@@ -90,6 +90,6 @@ When he’s not busy automating things, he can be found writing at [fivestars.bl
 
 ## More Questions
 
-If you need any further help or clarification, please [open an issue](https://github.com/zntfdr/WWDC-Notes/issues/new) or [contact me on Twitter](https://twitter.com/zntfdr).
+If you need any further help or clarification, please [contact me on Twitter](https://twitter.com/zntfdr) or [email](mailto:wwdcnotes@fivestars.blog).
 
 Thank you and please enjoy! 🎉
