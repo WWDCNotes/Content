@@ -2,7 +2,7 @@
     <img src="logo.jpg" width="600" max-width="90%" alt="WWDC Notes" />
 </p>
 
-Welcome to **[WWDC NOTES][website]**'s repository, _an open source and community-driven effort to collect notes from all Apple's WWDC videos_.
+Welcome to **[WWDC Notes][website]**'s repository, _an open source and community-driven effort to collect notes from all Apple's WWDC videos_.
 
 # Introduction
 
@@ -10,7 +10,7 @@ WWDC is fantastic for many reasons: Apple annouces tons of new things, previews 
 
 The amount of new WWDC content every year is incredible, and, sometimes, watching these videos is really the only way to understand how things work, or how to make them work.
 
-[WWDC NOTES][website] can be used as a quick reminder of what was presented, as a reference, or even as a time-saver, since watching all WWDC sessions takes hundreds of hours.
+[WWDC Notes][website] can be used as a quick reminder of what was presented, as a reference, or even as a time-saver, since watching all WWDC sessions takes hundreds of hours.
 
 In this repository you can find all the WWDC sessions notes available in the [main website][website], all notes are written in [Markdown][markdownSpec].
 
@@ -22,7 +22,7 @@ For more information, please refer to the [CONTRIBUTING.md][contributing] docume
 
 # Credits
 
-[WWDC NOTES][website] was built by [Federico Zanetello][twitter] as a [FIVE STARS][5SWebsite] project, and it is generated using [Publish][publish].
+[WWDC Notes][website] was built by [Federico Zanetello][twitter] as a [FIVE STARS][5SWebsite] project, and it is generated using [Publish][publish].
 
 # Legal
 
