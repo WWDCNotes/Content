@@ -2,7 +2,7 @@
     <img src="logo.jpg" width="600" max-width="90%" alt="WWDC Notes" />
 </p>
 
-Welcome to **[WWDC Notes][website]**'s repository, _the TL;DW for Apple's WWDC videos_.
+Welcome to **[WWDC Notes][website]**'s repository, _an open source and community-driven effort to collect notes from all Apple's WWDC videos_.
 
 # Introduction
 
@@ -22,15 +22,15 @@ For more information, please refer to the [CONTRIBUTING.md][contributing] docume
 
 # Credits
 
-[WWDC Notes][website] was built by [Federico Zanetello][twitter] as a [Five Stars][5SWebsite] project, and it is generated using [Publish][publish].
+[WWDC Notes][website] is built by [Federico Zanetello][twitter] as a [FIVE STARS][5SWebsite] project, and it is generated using [Publish][publish].
 
 # Legal
 
-All content copyright © 2012 – 2020 Apple Inc. All rights reserved.  
+All content copyright © 2012 – 2021 Apple Inc. All rights reserved.  
 Swift, the Swift logo, Swift Playgrounds, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, Mac, and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.  
 This repository is not made by, affiliated with, nor endorsed by Apple.
 
-[5SWebsite]: http://fivestars.blog
+[5SWebsite]: https://fivestars.blog
 [contributing]: CONTRIBUTING.md
 [markdownSpec]: https://daringfireball.net/projects/markdown/
 [publish]: https://github.com/JohnSundell/Publish
