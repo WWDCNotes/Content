@@ -22,7 +22,7 @@ For more information, please refer to the [CONTRIBUTING.md][contributing] docume
 
 # Credits
 
-[WWDC Notes][website] was built by [Federico Zanetello][twitter] as a [FIVE STARS][5SWebsite] project, and it is generated using [Publish][publish].
+[WWDC Notes][website] is built by [Federico Zanetello][twitter] as a [FIVE STARS][5SWebsite] project, and it is generated using [Publish][publish].
 
 # Legal
 
