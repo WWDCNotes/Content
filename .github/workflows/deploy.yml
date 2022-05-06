@@ -1,0 +1,14 @@
+name: Trigger WWDC Notes Deployment
+on:
+  push:
+    branches:    
+      - main
+
+jobs:
+  trigger_deployment:
+    name: Trigger WWDC Notes Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run ${{ secrets.DEPLOY_WORKFLOW_NAME }} --repo ${{ secrets.DEPLOY_REPOSITORY_NAME }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
