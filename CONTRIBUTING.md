@@ -66,7 +66,7 @@ All notes are located in `/content/notes/wwdcXX/YYYY.md`, where `XX` is the WWDC
 
 ## More Questions
 
-If you need any further help or clarification, feel free to reach out via [email](mailto:wwdcnotes@fivestars.blog).
+If you need any further help or clarification, feel free ask in the #random channel on our [Slack space](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg) or reach out to Jeehut via a direct message there.
 
 Thank you, and we look forward to your PRs! 🎉
 
