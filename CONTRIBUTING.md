@@ -28,15 +28,21 @@ Do not worry about the session title, tags, description, video link, etc.: all o
 
 Two steps:
 
-1. Add the image(s) in the folder `/images/notes/wwdcXX/YYY` where `XX` is the session WWDC year (e.g., `wwdc21` for WWDC 2021) and `YYY` the session number (e.g., `216`) (it's the same path as your note).
+1. Add the image(s) in the folder `/images/notes/wwdcXX/YYY` where `XX` is the session WWDC year (e.g., `wwdc23` for WWDC 2023) and `YYY` the session number (e.g., `101`) (it's the same path as your note).
 
-2. Link them in your note using the URL `../../../images/notes/wwdcXX/YYY/imageName.png`.
+2. Link them in your note using the URL `../../../images/notes/wwdcXX/YYY/imageName.png`, for example:
+
+```Markdown
+![][sketchnote]
+
+[sketchnote]: ../../../images/notes/wwdc23/101/sketchnote.jpg
+```
 
 > the `../../../` prefix is used to make it possible to preview the images both on the website and on GitHub.
 
 ## Update a note
 
-It's okay to update an existing note with more content, corrections, and further enhancements, even if you're not the one who originally wrote it.
+It's encouraged to update an existing note with more content, corrections, and further enhancements, even if you're not the one who originally wrote it.
 
 You can add yourself among the note contributors if your change is substantial (a.k.a. more than adding a link, adjusting a few sentences, or fixing typos).
 
