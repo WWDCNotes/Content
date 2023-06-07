@@ -33,9 +33,9 @@ Two steps:
 2. Link them in your note using the URL `../../../images/notes/wwdcXX/YYY/imageName.png`, for example:
 
 ```Markdown
-![][sketchnote]
+![I am a description for the image.][reference-name]
 
-[sketchnote]: ../../../images/notes/wwdc23/101/sketchnote.jpg
+[reference-name]: ../../../images/notes/wwdc23/101/file-name.jpg
 ```
 
 > the `../../../` prefix is used to make it possible to preview the images both on the website and on GitHub.
