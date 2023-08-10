@@ -24,7 +24,7 @@ Besides adding your GitHub username among the contributors, the rest of the file
 
 Do not worry about the session title, tags, description, video link, etc.: all of that will be added automatically later.
 
-### Note images
+### Where to Save the Note Images
 
 Two steps:
 
@@ -39,9 +39,27 @@ Two steps:
 ```
 
 > Use exactly this format including the `../../../` prefix to make it possible to preview the images both on the website and on GitHub.
-> You can place the `[refrence-name]: <link>` part at the end of the document or inline, there's no strict rulem, both will work.
+> You can place the `[reference-name]: <link>` part at the end of the document or inline, there's no strict rulem, both will work.
 
-NOTE: When taking screenshots from sessions to include here, make sure to crop any presenters out of the image to respect their privacy.
+### Guidelines for Incorporating Images and Screenshots
+
+1. **Privacy Considerations**: Prioritize presenter privacy by cropping out any individuals from the screenshots.
+
+2. **Image Quality**: Maintain high-quality screenshots that remain clear and crisp even on larger displays like external monitors or MacBooks, avoiding any pixelation.
+
+3. **Image Resizing for Server Optimization**: To optimize server load, follow these steps to resize images:
+
+   **On a Mac**:
+   a. Open the image in Preview.
+   b. Utilize the selection tool to crop unnecessary portions, like black bars at the top and bottom, by dragging with the mouse.
+   c. Crop the selected area using `Command + K`.
+   d. Save the edited image.
+   e. For exporting, either choose `File > Export`, pick `JPG` format, assign a filename, and save it in the designated WWDC folder on your Mac.
+   
+   **Or**, you can right-click on the screenshot (typically a PNG file), then select: `Quick Actions -> Convert Image`.  
+   
+   **On an iPad**:
+   The Photo app on an iPad doesn't directly support image resizing. However, you can use the **Shortcut** app ([Link](https://apps.apple.com/us/app/shortcuts/id915249334)) to create a custom shortcut. This will allow you to automate the resizing process for your images. When preparing images for the web and MacBook Pro displays, for web use, common sizes include 1920x1080 (Full HD), 2560x1440 (2K), and 3840x2160 (4K) for background images or banners. But widths around **800 to 1200 pixels** are often suitable for accommodating various screen sizes without excessive resizing and a resolution of ** 72 pixels per inch (PPI)** is generally sufficient. 
 
 ### Ensure no one else works on it in parallel
 
