@@ -63,6 +63,11 @@ Two steps:
 
 4. In Preview on macOS, you have the capability to **select and copy text directly from images, even including code snippets**. Consequently, opting for a code block is more advantageous than using an image that contains text or code.
 
+5. To render the Markdown we use [Ink](https://github.com/JohnSundell/Ink). If images or code blocks are not rendering correctly on the website, consider the following steps.
+- Reveal Invisible Characters in Xcode: access the `invisibles` feature in Xcode via the Editor menu. This will allow you to visualize hidden characters.
+- Eliminate Preceding Spaces: Before your image or code block, ensure there are no extraneous spaces or indentations. While a single return or new line is acceptable, multiple spaces can confuse the parser and hinder proper rendering.
+
+
 ### Ensure no one else works on it in parallel
 
 If you're providing notes durnig the week of WWDC, it's possible that others are currently watching sessions & providing notes as well. While it's totally encouraged that multiple people provide notes for the same session to combine them, if you don't want to contribute notes for a session that already is being worked on, make sure to check the latest messages in the `#wwdc23` channe on our [Slack space](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg). Also, if you do decide to work on a session during WWDC wwek, make sure to inform the community about it in the same place. Thank you! 🙏
