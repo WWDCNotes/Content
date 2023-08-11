@@ -59,7 +59,9 @@ Two steps:
    **Or**, you can right-click on the screenshot (typically a PNG file), then select: `Quick Actions -> Convert Image`.  
    
    **On an iPad**:
-   The Photo app on an iPad doesn't directly support image resizing. However, you can use the **Shortcut** app ([Link](https://apps.apple.com/us/app/shortcuts/id915249334)) to create a custom shortcut. This will allow you to automate the resizing process for your images. When preparing images for the web and MacBook Pro displays, for web use, common sizes include 1920x1080 (Full HD), 2560x1440 (2K), and 3840x2160 (4K) for background images or banners. But widths around **800 to 1200 pixels** are often suitable for accommodating various screen sizes without excessive resizing and a resolution of ** 72 pixels per inch (PPI)** is generally sufficient. 
+   The Photo app on an iPad doesn't directly support image resizing. However, you can use the **Shortcut** app ([Link](https://apps.apple.com/us/app/shortcuts/id915249334)) to create a custom shortcut. This will allow you to automate the resizing process for your images. When preparing images for the web and MacBook Pro displays, for web use, common sizes include 1920x1080 (Full HD), 2560x1440 (2K), and 3840x2160 (4K) for background images or banners. But widths around **800 to 1200 pixels** are often suitable for accommodating various screen sizes without excessive resizing and a resolution of **72 pixels per inch (PPI)** is generally sufficient. 
+
+4. In Preview on macOS, you have the capability to **select and copy text directly from images, even including code snippets**. Consequently, opting for a code block is more advantageous than using an image that contains text or code.
 
 ### Ensure no one else works on it in parallel
 
