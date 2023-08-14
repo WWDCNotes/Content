@@ -19,7 +19,7 @@ Shortly before WWDC 2023, the project was handed over to [Cihat Gündüz](https:
 # Legal
 
 All content copyright © 2012 – 2023 Apple Inc. All rights reserved.  
-Swift, the Swift logo, Swift Playgrounds, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, Mac, and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.  
+Swift, the Swift logo, Swift Playgrounds, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, Mac, macOS, Vision Pro, and visionOS are trademarks of Apple Inc., registered in the U.S. and other countries.  
 This repository is not made by, affiliated with, nor endorsed by Apple.
 
 [5SWebsite]: https://fivestars.blog
