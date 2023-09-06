@@ -68,9 +68,9 @@ Two steps:
 - Eliminate Preceding Spaces: Before your image or code block, ensure there are no extraneous spaces or indentations. While a single return or new line is acceptable, multiple spaces can confuse the parser and hinder proper rendering.
 
 
-### Ensure no one else works on it in parallel
+### How to check if someone else works on it in parallel
 
-If you're providing notes durnig the week of WWDC, it's possible that others are currently watching sessions & providing notes as well. While it's totally encouraged that multiple people provide notes for the same session to combine them, if you don't want to contribute notes for a session that already is being worked on, make sure to check the latest messages in the `#wwdc23` channe on our [Slack space](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg). Also, if you do decide to work on a session during WWDC wwek, make sure to inform the community about it in the same place. Thank you! 🙏
+If you're providing notes durnig the week of WWDC, it's possible that others are currently watching sessions & providing notes as well. While it's totally encouraged that multiple people provide notes for the same session to combine them, if you don't want to contribute notes for a session that already is being worked on, make sure to check the latest messages in the `#wwdc23` channel on our [Slack space](https://join.slack.com/t/wwdc-notes/shared_invite/zt-1wbsoo705-bydJ430uZSRILstG5GxEzg). Also, if you do decide to work on a session during WWDC week, make sure to inform the community about it in the same place. Thank you! 🙏
 
 ## Update a note
 
@@ -81,6 +81,15 @@ You can add yourself among the note contributors if your change is substantial (
 ## Community member details
 
 Details like full name, avatar, website, etc., come automatically from your [GitHub profile][ghp]. All details are updated every time you make a new contribution to this repository.
+
+## Don't copy the transcript
+
+While we don't have any specific on the exact form of the summary (people take notes differently!), it's important that they still are notes that you're sharing. Here are some signs that contributions are NOT notes, so we strongly discourage the following:
+
+* Blocks of text can be found word for word in Apple's session transcript within the Developer app.
+* The text is written from the "I" perspective of the presenter of the session.
+
+Please avoid simply copying larger blocks from the transcript. A few shorter direct quotes are fine. For example, if they list things, it's natural to list the same things in a note. But if they say something like: "There are many scenarios where feature X can improve your workflow. First of all, they allow you to Y" then this should not be directly quoted in a summary. Instead, write something like "Feature X helps with: Y, ...", which is also shorter than the original text.
 
 ## Add a new note manually
 
