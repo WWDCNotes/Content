@@ -89,7 +89,7 @@ While we don't have any specific requirements on the exact form of the summary (
 * Blocks of text can be found word for word in Apple's session transcript within the Developer app.
 * The text is written from the "I" perspective of the presenter of the session.
 
-Please avoid simply copying larger blocks from the transcript. A few shorter direct quotes are fine. For example, if they list things, it's natural to list the same things in a note. But if they say something like: "There are many scenarios where feature X can improve your workflow. First of all, they allow you to Y" then this should not be directly quoted in a summary. Instead, write something like "Feature X helps with: Y, ...", which is also shorter than the original text.
+Please avoid simply copying larger blocks from the transcript. A few shorter direct quotes are fine. For example, if they list things, it's natural to list the same things in a note. But if they say something like: "There are many scenarios where feature X can improve your workflow. First of all, they allow you to Y..." then this should not be directly quoted in a summary. Instead, write something like "Feature X helps with: Y, ...", which is also shorter than the original text.
 
 ## Add a new note manually
 
