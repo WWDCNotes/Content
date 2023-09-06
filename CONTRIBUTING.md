@@ -84,7 +84,7 @@ Details like full name, avatar, website, etc., come automatically from your [Git
 
 ## Don't copy the transcript
 
-While we don't have any specific on the exact form of the summary (people take notes differently!), it's important that they still are notes that you're sharing. Here are some signs that contributions are NOT notes, so we strongly discourage the following:
+While we don't have any specific requirements on the exact form of the summary (people take notes differently!), it's important that they still are notes that you're sharing. Here are some signs that contributions are NOT notes, so we strongly discourage the following:
 
 * Blocks of text can be found word for word in Apple's session transcript within the Developer app.
 * The text is written from the "I" perspective of the presenter of the session.
